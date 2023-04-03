@@ -1,6 +1,6 @@
-## Your Name
+## Marco Karim Belahouane
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a multi-cultural problem solver that has been kicking people in the head for over a decade. I've always lived in stressful environment and I've always found "non-violent" solutions. I believe that the technological advances within this next decade are going to take problem solving to the next level and I can't wait to be part of the solution.
 
 ## Projects
 
@@ -10,11 +10,11 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experience
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+Self Employed 
+Muay Thai Instructor march 2018 to november 2022
+- coordinated large groups
+- tracked their training and progress
+- created a coaching syllabus for coaches to learn and develop
 
 **Company Name** (start-date to end-date)  
 _Your job title_
@@ -23,25 +23,15 @@ _Your job title_
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
-
-
-Here's an example
-
 #### Communication
 I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
 
-#### Another skill
+#### Advertising
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- I made videos and tutorials, throughout lockdown to keep my business working and to keep my customers inspired. It taught me a lot about social media and how to reach people with relevant products.
 
-#### Another skill
-
+#### Social organisation
+- I have found myself in positions of responsibility for groups of people not just in classes whilst coaching Thai boxing but also while organising fights and guiding fighters through the process of training for the fight. 
 
 ## Education
 
@@ -54,11 +44,11 @@ I honed my communication skills while completing my thesis at university, which 
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Uni of Leeds (start to finish)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Maths and Philosophy
+- 2:2
+- LUU Thai Boxing President
 
 #### Any other qualifications
 
