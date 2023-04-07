@@ -46,8 +46,7 @@ I honed my communication skills while completing my thesis at university, which 
 
 #### Uni of Leeds (start to finish)
 
-- Maths and Philosophy
-- 2:2
+- Maths and Philosophy 2:2
 - LUU Thai Boxing President
 
 #### Any other qualifications
