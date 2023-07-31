@@ -1,12 +1,12 @@
 ## Marco Karim Belahouane
 
 I am a multi-cultural problem solver that has been kicking people in the head for over a decade. I've always lived in stressful environment and I've always found "non-violent" solutions. I believe that the technological advances within this next decade are going to take problem solving to the next level and I can't wait to be part of the solution.
-
+[link text itself]: http://www.reddit.com
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **Flock**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experience
