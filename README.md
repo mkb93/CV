@@ -6,7 +6,7 @@ I am a multi-cultural problem solver that has been kicking people in the head fo
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **https://github.com/ev-th/Flock**            | A webapp to do x. | React, Jest, etc. |
+| **[Flock](https://github.com/ev-th/Flock)**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experience
