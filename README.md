@@ -17,33 +17,26 @@ Muay Thai Instructor march 2018 to november 2022
 - tracked their training and progress
 - created a coaching syllabus for coaches to learn and develop
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
 ## Skills
 
 #### Communication
-I honed my communication skills while teaching varying size groups of individuals from 100 to just 1. I grew to understand how to engagement varies in personal communication to team communication. I have found that my teaching experience has helped me to articulate ideas more directly and clearly.
+I honed my communication skills while teaching varying size groups of individuals from 100 to just 1. I grew to understand how engagement varies in personal communication to team communication. I have found that my teaching experience has helped me to articulate ideas more directly and clearly. 
 
-#### Advertising
+#### Adaptability
 
-- I made videos and tutorials, throughout lockdown to keep my business working and to keep my customers inspired. It taught me a lot about social media and how to reach people with relevant products.
+- Whilst Thai Boxing may have a very different skillset to software engineering, there seems to be a similarity in the constant changing state of the industry, every month there is a new technique or fighter that people expect you to know about and be able to comfortably use. I've been able to hone my ability to adapt to new environments and ideas by embracing the similarities and developing broader understandings of topics rather than focus on the specific differences.
 
-#### Social organisation
-- I have found myself in positions of responsibility for groups of people not just in classes whilst coaching Thai boxing but also while organising fights and guiding fighters through the process of training for the fight. 
+#### Responsibility
+- I have found myself in positions of responsibility for groups of people, not just in classes whilst coaching Thai boxing, but also while organising fights and guiding fighters through the process of training for the fight. I also consider the efforts of my fighters to be directly correlated to the effort I put in.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (March 2023 to July 2023)
+- Ruby, Javascript
+- OOP, TDD
+- Agile 
+- Cypress, Jest, RSpec
+- Pairprograming and Ticketing
 
 #### Uni of Leeds (start to finish)
 
@@ -52,7 +45,7 @@ I honed my communication skills while teaching varying size groups of individual
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+- Personal Training level 3 qualifications
 
 ## Hobbies
 
