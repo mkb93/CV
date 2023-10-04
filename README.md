@@ -25,7 +25,7 @@ _Your job title_
 ## Skills
 
 #### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
+I honed my communication skills while teaching varying size groups of individuals from 100 to just 1. I grew to understand how to engagement varies in personal communication to team communication. I have found that my teaching experience has helped me to articulate ideas more directly and clearly.
 
 #### Advertising
 
@@ -56,4 +56,6 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Thai Boxing
+- intermural football
+- Manga
