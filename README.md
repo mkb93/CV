@@ -8,7 +8,7 @@ I am a multi-cultural problem solver that has been kicking people in the head fo
 | ---------------------------- | ----------------- | ----------------- |
 | **[Flock](https://github.com/ev-th/Flock)**            | A mobile app used to help find things to do and organise with friends | ReactNative, Jest, Javascript. |
 | **[AceBook](https://github.com/ev-th/acebook-fire)** | A web app that is meant to replicate some facebook functionality like posts, users, comments and likes. | React, Jest , Cypress. |
-| **[MakersBnb](https://github.com/mkb93/Bnb)** | A web app that is meant to replicate some AirBnb functionality like listing properties, booking and user accounts. | Ruby, Jest ,
+| **[MakersBnb](https://github.com/mkb93/Bnb)** | A web app that is meant to replicate some AirBnb functionality like listing properties, booking and user accounts. | Ruby, Jest , RSpec
 
 ## Work Experience
 Self Employed 
